@@ -2,7 +2,7 @@
 
 Instructions and Python code to demonstrate Alexa In Skill Purchasing
 
-Please see AlexaHostedOneTimeISP.docx file.
+Please see AlexaHostedOneTimeISP.docx file for Alexa Hosted and Alexa ISP and ASK CLI V2.docx for ASK CLI onstructions
 
 Videos at
 1. Demonstration example ISP at: https://youtu.be/h0EIVhIfD98
