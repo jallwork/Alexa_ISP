@@ -9,7 +9,11 @@ Videos at
 
 2. Create ISP at: https://youtu.be/c82JRithsw8
 
-3 and 4. Walk through video at: https://youtu.be/EIp2bQJEU4A
+3. Walk through video at: https://youtu.be/EIp2bQJEU4A
+
+4. ASK CLI and ISP https://youtu.be/FD-CZ4i-GVU
+
+
 
 
 
