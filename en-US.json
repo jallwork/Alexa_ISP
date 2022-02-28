@@ -1,0 +1,75 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "johns in skill jokes",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "Tell me a joke",
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "BuyIntent",
+                    "slots": [],
+                    "samples": [
+                        "let's buy it",
+                        "upgrade",
+                        "Can I buy it",
+                        "purchase",
+                        "I want to buy it"
+                    ]
+                },
+                {
+                    "name": "TellMeMoreIntent",
+                    "slots": [],
+                    "samples": [
+                        "What can I purchase",
+                        "What can I get",
+                        "Tell me more",
+                        "What can I buy"
+                    ]
+                },
+                {
+                    "name": "RefundPurchase",
+                    "slots": [],
+                    "samples": [
+                        "i want a refund",
+                        "return goods",
+                        "refund purchase",
+                        "refund"
+                    ]
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
